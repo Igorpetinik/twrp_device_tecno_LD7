@@ -18,7 +18,7 @@ Release Date | October 16, 2020
 
 ## Features:
 
-- All PBRP features are expected to be working fine!
+- All TWRP features are expected to be working fine!
 
 ## What's New?
 
